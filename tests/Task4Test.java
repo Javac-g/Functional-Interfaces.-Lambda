@@ -18,7 +18,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
 
-class Tas4Test {
+class Task4Test {
 
 	private static String PERSON = "jom.com.softserve.s5.task4.Person";
 	private static String DECISION_METHOD = "jom.com.softserve.s5.task4.DecisionMethod";
